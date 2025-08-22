@@ -23,7 +23,7 @@ Bu proje, Hugging Face Transformers kütüphanesi kullanılarak geliştirilmiş,
 
 1.  **Repo'yu klonlayın:**
     ```bash
-    git clone [https://github.com/kullanici-adiniz/LLM-Kasifi.git](https://github.com/kullanici-adiniz/LLM-Kasifi.git)
+    git clone [https://github.com/kullanici-adiniz/LLM-Explorer.git](https://github.com/kullanici-adiniz/LLM-Explorer.git)
     cd LLM-Kasifi
     ```
 
